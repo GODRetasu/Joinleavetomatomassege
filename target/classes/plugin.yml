@@ -1,0 +1,4 @@
+name: tutolialPlugin
+version: '1.0-tomato'
+main: nandeyanen.click.tutolialplugin.TutolialPlugin
+api-version: '1.20'

@@ -1,0 +1,4 @@
+name: tutolialPlugin
+version: '${project.version}'
+main: nandeyanen.click.tutolialplugin.TutolialPlugin
+api-version: '1.20'
